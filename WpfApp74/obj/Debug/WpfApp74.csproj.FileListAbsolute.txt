@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Source\Repos\WpfApp74\bin\Debug\WpfApp74.exe.config
+C:\Users\Lenovo\Source\Repos\WpfApp74\bin\Debug\WpfApp74.exe
+C:\Users\Lenovo\Source\Repos\WpfApp74\bin\Debug\WpfApp74.pdb
+C:\Users\Lenovo\Source\Repos\WpfApp74\obj\Debug\WpfApp74.csprojAssemblyReference.cache
+C:\Users\Lenovo\Source\Repos\WpfApp74\obj\Debug\MainWindow.g.cs
+C:\Users\Lenovo\Source\Repos\WpfApp74\obj\Debug\App.g.cs
+C:\Users\Lenovo\Source\Repos\WpfApp74\obj\Debug\WpfApp74_MarkupCompile.cache
+C:\Users\Lenovo\Source\Repos\WpfApp74\obj\Debug\WpfApp74_MarkupCompile.lref
+C:\Users\Lenovo\Source\Repos\WpfApp74\obj\Debug\MainWindow.baml
+C:\Users\Lenovo\Source\Repos\WpfApp74\obj\Debug\WpfApp74.g.resources
+C:\Users\Lenovo\Source\Repos\WpfApp74\obj\Debug\WpfApp74.Properties.Resources.resources
+C:\Users\Lenovo\Source\Repos\WpfApp74\obj\Debug\WpfApp74.csproj.GenerateResource.cache
+C:\Users\Lenovo\Source\Repos\WpfApp74\obj\Debug\WpfApp74.exe
+C:\Users\Lenovo\Source\Repos\WpfApp74\obj\Debug\WpfApp74.pdb

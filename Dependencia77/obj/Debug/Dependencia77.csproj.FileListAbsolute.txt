@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Source\Repos\Dependencia77\bin\Debug\Dependencia77.exe.config
+C:\Users\Lenovo\Source\Repos\Dependencia77\bin\Debug\Dependencia77.exe
+C:\Users\Lenovo\Source\Repos\Dependencia77\bin\Debug\Dependencia77.pdb
+C:\Users\Lenovo\Source\Repos\Dependencia77\obj\Debug\Dependencia77.csprojAssemblyReference.cache
+C:\Users\Lenovo\Source\Repos\Dependencia77\obj\Debug\MainWindow.g.cs
+C:\Users\Lenovo\Source\Repos\Dependencia77\obj\Debug\App.g.cs
+C:\Users\Lenovo\Source\Repos\Dependencia77\obj\Debug\Dependencia77_MarkupCompile.cache
+C:\Users\Lenovo\Source\Repos\Dependencia77\obj\Debug\Dependencia77_MarkupCompile.lref
+C:\Users\Lenovo\Source\Repos\Dependencia77\obj\Debug\MainWindow.baml
+C:\Users\Lenovo\Source\Repos\Dependencia77\obj\Debug\Dependencia77.g.resources
+C:\Users\Lenovo\Source\Repos\Dependencia77\obj\Debug\Dependencia77.Properties.Resources.resources
+C:\Users\Lenovo\Source\Repos\Dependencia77\obj\Debug\Dependencia77.csproj.GenerateResource.cache
+C:\Users\Lenovo\Source\Repos\Dependencia77\obj\Debug\Dependencia77.exe
+C:\Users\Lenovo\Source\Repos\Dependencia77\obj\Debug\Dependencia77.pdb

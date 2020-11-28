@@ -1,0 +1,11 @@
+F:\Users\Lenovo\Desktop\Hilos\HilosPool\bin\Debug\netcoreapp3.1\HilosPool.exe
+F:\Users\Lenovo\Desktop\Hilos\HilosPool\bin\Debug\netcoreapp3.1\HilosPool.deps.json
+F:\Users\Lenovo\Desktop\Hilos\HilosPool\bin\Debug\netcoreapp3.1\HilosPool.runtimeconfig.json
+F:\Users\Lenovo\Desktop\Hilos\HilosPool\bin\Debug\netcoreapp3.1\HilosPool.runtimeconfig.dev.json
+F:\Users\Lenovo\Desktop\Hilos\HilosPool\bin\Debug\netcoreapp3.1\HilosPool.dll
+F:\Users\Lenovo\Desktop\Hilos\HilosPool\bin\Debug\netcoreapp3.1\HilosPool.pdb
+F:\Users\Lenovo\Desktop\Hilos\HilosPool\obj\Debug\netcoreapp3.1\HilosPool.csprojAssemblyReference.cache
+F:\Users\Lenovo\Desktop\Hilos\HilosPool\obj\Debug\netcoreapp3.1\HilosPool.AssemblyInfoInputs.cache
+F:\Users\Lenovo\Desktop\Hilos\HilosPool\obj\Debug\netcoreapp3.1\HilosPool.AssemblyInfo.cs
+F:\Users\Lenovo\Desktop\Hilos\HilosPool\obj\Debug\netcoreapp3.1\HilosPool.dll
+F:\Users\Lenovo\Desktop\Hilos\HilosPool\obj\Debug\netcoreapp3.1\HilosPool.pdb

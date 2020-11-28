@@ -1,0 +1,9 @@
+F:\Users\Lenovo\Desktop\Hilos\hilos3\obj\Debug\hilos3.csprojAssemblyReference.cache
+F:\Users\Lenovo\Desktop\Hilos\hilos3\obj\Debug\hilos3.Form1.resources
+F:\Users\Lenovo\Desktop\Hilos\hilos3\obj\Debug\hilos3.Properties.Resources.resources
+F:\Users\Lenovo\Desktop\Hilos\hilos3\obj\Debug\hilos3.csproj.GenerateResource.cache
+F:\Users\Lenovo\Desktop\Hilos\hilos3\bin\Debug\hilos3.exe.config
+F:\Users\Lenovo\Desktop\Hilos\hilos3\bin\Debug\hilos3.exe
+F:\Users\Lenovo\Desktop\Hilos\hilos3\bin\Debug\hilos3.pdb
+F:\Users\Lenovo\Desktop\Hilos\hilos3\obj\Debug\hilos3.exe
+F:\Users\Lenovo\Desktop\Hilos\hilos3\obj\Debug\hilos3.pdb

@@ -1,0 +1,11 @@
+C:\Users\Lenovo\Source\Repos\hilo1\hilo1\bin\Debug\netcoreapp3.1\hilo1.exe
+C:\Users\Lenovo\Source\Repos\hilo1\hilo1\bin\Debug\netcoreapp3.1\hilo1.deps.json
+C:\Users\Lenovo\Source\Repos\hilo1\hilo1\bin\Debug\netcoreapp3.1\hilo1.runtimeconfig.json
+C:\Users\Lenovo\Source\Repos\hilo1\hilo1\bin\Debug\netcoreapp3.1\hilo1.runtimeconfig.dev.json
+C:\Users\Lenovo\Source\Repos\hilo1\hilo1\bin\Debug\netcoreapp3.1\hilo1.dll
+C:\Users\Lenovo\Source\Repos\hilo1\hilo1\bin\Debug\netcoreapp3.1\hilo1.pdb
+C:\Users\Lenovo\Source\Repos\hilo1\hilo1\obj\Debug\netcoreapp3.1\hilo1.csprojAssemblyReference.cache
+C:\Users\Lenovo\Source\Repos\hilo1\hilo1\obj\Debug\netcoreapp3.1\hilo1.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Source\Repos\hilo1\hilo1\obj\Debug\netcoreapp3.1\hilo1.AssemblyInfo.cs
+C:\Users\Lenovo\Source\Repos\hilo1\hilo1\obj\Debug\netcoreapp3.1\hilo1.dll
+C:\Users\Lenovo\Source\Repos\hilo1\hilo1\obj\Debug\netcoreapp3.1\hilo1.pdb

@@ -1,0 +1,11 @@
+C:\Users\Lenovo\Source\Repos\Thread\bin\Debug\netcoreapp3.1\Thread.exe
+C:\Users\Lenovo\Source\Repos\Thread\bin\Debug\netcoreapp3.1\Thread.deps.json
+C:\Users\Lenovo\Source\Repos\Thread\bin\Debug\netcoreapp3.1\Thread.runtimeconfig.json
+C:\Users\Lenovo\Source\Repos\Thread\bin\Debug\netcoreapp3.1\Thread.runtimeconfig.dev.json
+C:\Users\Lenovo\Source\Repos\Thread\bin\Debug\netcoreapp3.1\Thread.dll
+C:\Users\Lenovo\Source\Repos\Thread\bin\Debug\netcoreapp3.1\Thread.pdb
+C:\Users\Lenovo\Source\Repos\Thread\obj\Debug\netcoreapp3.1\Thread.csprojAssemblyReference.cache
+C:\Users\Lenovo\Source\Repos\Thread\obj\Debug\netcoreapp3.1\Thread.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Source\Repos\Thread\obj\Debug\netcoreapp3.1\Thread.AssemblyInfo.cs
+C:\Users\Lenovo\Source\Repos\Thread\obj\Debug\netcoreapp3.1\Thread.dll
+C:\Users\Lenovo\Source\Repos\Thread\obj\Debug\netcoreapp3.1\Thread.pdb

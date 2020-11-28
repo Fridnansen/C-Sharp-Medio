@@ -1,0 +1,11 @@
+C:\Users\Lenovo\Source\Repos\delegadoPRedicado68\obj\Debug\netcoreapp3.1\delegadoPRedicado68.csprojAssemblyReference.cache
+C:\Users\Lenovo\Source\Repos\delegadoPRedicado68\obj\Debug\netcoreapp3.1\delegadoPRedicado68.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Source\Repos\delegadoPRedicado68\obj\Debug\netcoreapp3.1\delegadoPRedicado68.AssemblyInfo.cs
+C:\Users\Lenovo\Source\Repos\delegadoPRedicado68\bin\Debug\netcoreapp3.1\delegadoPRedicado68.exe
+C:\Users\Lenovo\Source\Repos\delegadoPRedicado68\bin\Debug\netcoreapp3.1\delegadoPRedicado68.deps.json
+C:\Users\Lenovo\Source\Repos\delegadoPRedicado68\bin\Debug\netcoreapp3.1\delegadoPRedicado68.runtimeconfig.json
+C:\Users\Lenovo\Source\Repos\delegadoPRedicado68\bin\Debug\netcoreapp3.1\delegadoPRedicado68.runtimeconfig.dev.json
+C:\Users\Lenovo\Source\Repos\delegadoPRedicado68\bin\Debug\netcoreapp3.1\delegadoPRedicado68.dll
+C:\Users\Lenovo\Source\Repos\delegadoPRedicado68\bin\Debug\netcoreapp3.1\delegadoPRedicado68.pdb
+C:\Users\Lenovo\Source\Repos\delegadoPRedicado68\obj\Debug\netcoreapp3.1\delegadoPRedicado68.dll
+C:\Users\Lenovo\Source\Repos\delegadoPRedicado68\obj\Debug\netcoreapp3.1\delegadoPRedicado68.pdb

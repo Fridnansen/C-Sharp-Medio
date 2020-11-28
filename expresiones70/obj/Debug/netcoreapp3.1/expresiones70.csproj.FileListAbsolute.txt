@@ -1,0 +1,11 @@
+C:\Users\Lenovo\Source\Repos\expresiones70\bin\Debug\netcoreapp3.1\expresiones70.exe
+C:\Users\Lenovo\Source\Repos\expresiones70\bin\Debug\netcoreapp3.1\expresiones70.deps.json
+C:\Users\Lenovo\Source\Repos\expresiones70\bin\Debug\netcoreapp3.1\expresiones70.runtimeconfig.json
+C:\Users\Lenovo\Source\Repos\expresiones70\bin\Debug\netcoreapp3.1\expresiones70.runtimeconfig.dev.json
+C:\Users\Lenovo\Source\Repos\expresiones70\bin\Debug\netcoreapp3.1\expresiones70.dll
+C:\Users\Lenovo\Source\Repos\expresiones70\bin\Debug\netcoreapp3.1\expresiones70.pdb
+C:\Users\Lenovo\Source\Repos\expresiones70\obj\Debug\netcoreapp3.1\expresiones70.csprojAssemblyReference.cache
+C:\Users\Lenovo\Source\Repos\expresiones70\obj\Debug\netcoreapp3.1\expresiones70.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Source\Repos\expresiones70\obj\Debug\netcoreapp3.1\expresiones70.AssemblyInfo.cs
+C:\Users\Lenovo\Source\Repos\expresiones70\obj\Debug\netcoreapp3.1\expresiones70.dll
+C:\Users\Lenovo\Source\Repos\expresiones70\obj\Debug\netcoreapp3.1\expresiones70.pdb

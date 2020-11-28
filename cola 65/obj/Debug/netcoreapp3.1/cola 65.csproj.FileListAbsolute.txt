@@ -1,0 +1,11 @@
+C:\Users\Lenovo\Source\Repos\cola 65\obj\Debug\netcoreapp3.1\cola 65.csprojAssemblyReference.cache
+C:\Users\Lenovo\Source\Repos\cola 65\obj\Debug\netcoreapp3.1\cola 65.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Source\Repos\cola 65\obj\Debug\netcoreapp3.1\cola 65.AssemblyInfo.cs
+C:\Users\Lenovo\Source\Repos\cola 65\bin\Debug\netcoreapp3.1\cola 65.exe
+C:\Users\Lenovo\Source\Repos\cola 65\bin\Debug\netcoreapp3.1\cola 65.deps.json
+C:\Users\Lenovo\Source\Repos\cola 65\bin\Debug\netcoreapp3.1\cola 65.runtimeconfig.json
+C:\Users\Lenovo\Source\Repos\cola 65\bin\Debug\netcoreapp3.1\cola 65.runtimeconfig.dev.json
+C:\Users\Lenovo\Source\Repos\cola 65\bin\Debug\netcoreapp3.1\cola 65.dll
+C:\Users\Lenovo\Source\Repos\cola 65\bin\Debug\netcoreapp3.1\cola 65.pdb
+C:\Users\Lenovo\Source\Repos\cola 65\obj\Debug\netcoreapp3.1\cola 65.dll
+C:\Users\Lenovo\Source\Repos\cola 65\obj\Debug\netcoreapp3.1\cola 65.pdb

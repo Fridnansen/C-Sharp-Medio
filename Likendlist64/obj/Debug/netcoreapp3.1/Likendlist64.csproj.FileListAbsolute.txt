@@ -1,0 +1,11 @@
+C:\Users\Lenovo\Source\Repos\Likendlist64\obj\Debug\netcoreapp3.1\Likendlist64.csprojAssemblyReference.cache
+C:\Users\Lenovo\Source\Repos\Likendlist64\obj\Debug\netcoreapp3.1\Likendlist64.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Source\Repos\Likendlist64\obj\Debug\netcoreapp3.1\Likendlist64.AssemblyInfo.cs
+C:\Users\Lenovo\Source\Repos\Likendlist64\bin\Debug\netcoreapp3.1\Likendlist64.exe
+C:\Users\Lenovo\Source\Repos\Likendlist64\bin\Debug\netcoreapp3.1\Likendlist64.deps.json
+C:\Users\Lenovo\Source\Repos\Likendlist64\bin\Debug\netcoreapp3.1\Likendlist64.runtimeconfig.json
+C:\Users\Lenovo\Source\Repos\Likendlist64\bin\Debug\netcoreapp3.1\Likendlist64.runtimeconfig.dev.json
+C:\Users\Lenovo\Source\Repos\Likendlist64\bin\Debug\netcoreapp3.1\Likendlist64.dll
+C:\Users\Lenovo\Source\Repos\Likendlist64\bin\Debug\netcoreapp3.1\Likendlist64.pdb
+C:\Users\Lenovo\Source\Repos\Likendlist64\obj\Debug\netcoreapp3.1\Likendlist64.dll
+C:\Users\Lenovo\Source\Repos\Likendlist64\obj\Debug\netcoreapp3.1\Likendlist64.pdb

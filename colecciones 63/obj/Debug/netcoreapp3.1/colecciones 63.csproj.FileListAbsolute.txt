@@ -1,0 +1,11 @@
+C:\Users\Lenovo\Source\Repos\colecciones 63\obj\Debug\netcoreapp3.1\colecciones 63.csprojAssemblyReference.cache
+C:\Users\Lenovo\Source\Repos\colecciones 63\obj\Debug\netcoreapp3.1\colecciones 63.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Source\Repos\colecciones 63\obj\Debug\netcoreapp3.1\colecciones 63.AssemblyInfo.cs
+C:\Users\Lenovo\Source\Repos\colecciones 63\bin\Debug\netcoreapp3.1\colecciones 63.exe
+C:\Users\Lenovo\Source\Repos\colecciones 63\bin\Debug\netcoreapp3.1\colecciones 63.deps.json
+C:\Users\Lenovo\Source\Repos\colecciones 63\bin\Debug\netcoreapp3.1\colecciones 63.runtimeconfig.json
+C:\Users\Lenovo\Source\Repos\colecciones 63\bin\Debug\netcoreapp3.1\colecciones 63.runtimeconfig.dev.json
+C:\Users\Lenovo\Source\Repos\colecciones 63\bin\Debug\netcoreapp3.1\colecciones 63.dll
+C:\Users\Lenovo\Source\Repos\colecciones 63\bin\Debug\netcoreapp3.1\colecciones 63.pdb
+C:\Users\Lenovo\Source\Repos\colecciones 63\obj\Debug\netcoreapp3.1\colecciones 63.dll
+C:\Users\Lenovo\Source\Repos\colecciones 63\obj\Debug\netcoreapp3.1\colecciones 63.pdb
